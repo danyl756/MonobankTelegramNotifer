@@ -13,4 +13,4 @@ def add_transaction(time, amount, description, currency_code, balance):
     for user in users:
         print(user)
         send_message(user[1], add_transaction_message.format(date, amount, description, currency_code, balance))
-    pass
+        

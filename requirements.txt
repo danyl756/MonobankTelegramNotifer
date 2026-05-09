@@ -1,0 +1,3 @@
+flask
+telebot
+psycopg2-binary

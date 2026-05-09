@@ -1,0 +1,6 @@
+command_start_message = 'Привіт'
+command_add_user_message = 'Введіть chat_id користувача для додавання:'
+command_delete_user_message = 'Введіть chat_id користувача для видалення:'
+success_add_user_message = 'Користувач {} доданий до бази даних.'
+success_delete_user_message = 'Користувач {} видалений з бази даних.'
+add_transaction_message = 'Нова транзакція:\nЧас: {}\nСума: {}\nОпис: {}\nКод валюти: {}\nБаланс: {}'

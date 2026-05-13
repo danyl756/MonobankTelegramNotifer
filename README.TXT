@@ -1,4 +1,4 @@
-Запит для встановлення вебхука, X - Токен з api.monobank.ua, X.X.X.X/webhook - адреса веб сервера
+Запит для встановлення вебхука, X - Токен з https://api.monobank.ua, X.X.X.X/webhook - адреса веб сервера
 
 curl -X POST -H "X-Token: X" -d "{\"webhookurl\": \"http://X.X.X.X/webhook\"}" https://api.monobank.ua/personal/webhook
 
